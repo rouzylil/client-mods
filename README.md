@@ -1,2 +1,63 @@
-# client-mods
-mods for minecraft
+# Моды для Minecraft сервера 
+ 
+## Установка 
+Для автоматической установки модов запустите \`download_mods.bat\` 
+ 
+## Список модов 
+- achievementoptimizer-1.16.5-1.0.0.jar 
+- adchimneys-1.16.5-6.1.0.0-build.0330.jar 
+- aiotbotania-1.16.5-1.8.4.jar 
+- autoreglib-1.6-49.jar 
+- BiomesOPlenty-1.16.5-13.1.0.488-universal.jar 
+- blockcarpentry-1.16-0.6.0.jar 
+- BloodMagic-1.16.4-3.1.13-39.jar 
+- bmorph-1.16.5-3.0.1.jar 
+- bookshelf-forge-1.16.5-10.4.32.jar 
+- Botania-1.16.5-420.3.jar 
+- cfm-7.0.0pre22-1.16.3.jar 
+- chattachisel-v0.2.2.jar 
+- cloth-config-4.17.132-forge.jar 
+- configured-1.5.4-1.16.5.jar 
+- constructsarmory-forge-2.0.0-alpha.21.16.5.jar 
+- ctm-mc1.16.1-1.1.2.6.jar 
+- curios-forge-1.16.5-4.1.0.0.jar 
+- curios-forge-1.18.2-5.0.9.2.jar 
+- CustomNPCs-1.16.5-GBFix-Unofficial-20250630.jar 
+- DivineRPG-1.8.27.jar 
+- eco_stack_manager-forge-1.18.2-1.3.0.jar 
+- extrabotany-r1.2-69.jar 
+- fastsuite-1.16.4-1.1.1.jar 
+- forgeendertech-1.16.5-7.3.0.0-build.0330.jar 
+- hwyla-forge-1.10.11-b78_1.16.2.jar 
+- infinitybuttons-1.16.5-4.0.4.jar 
+- ironchest-1.16.5-11.2.21.jar 
+- jei-1.16.5-7.8.0.1012.jar 
+- libx-1.16.3-1.0.76.jar 
+- mantle-1.16.5-1.6.157.jar 
+- marg-1.16.5-0.6.1.jar 
+- mousetweaks-2.14-mc1.16.2.jar 
+- mythicbotany-1.16.5-1.4.19.jar 
+- nefsmedievalpubv1.9g-20241.16.5.jar 
+- oculus-mc1.16.5-1.4.8.jar 
+- oreberries-replanted-1.16.5-0.1.4.jar 
+- Patchouli-1.16.4-53.3.jar 
+- placebo-1.16.5-4.7.1.jar 
+- plvstcsglassdoors-1.1.jar 
+- quark-r2.4-322.jar 
+- rubidium-extra-0.4.18mc1.16.5-build.107.jar 
+- rubidium-mc1.16.5-0.2.13.jar 
+- shetiphiancore-forge-1.16.2-lts-3.8.24.jar 
+- smoothchunk1.16.5-2.0.jar 
+- sophisticatedbackpacks-1.19.2-3.20.2.1035.jar 
+- sophisticatedcore-1.18.2-0.6.4.604.jar 
+- soundfilters-0.14_for_1.16.2.jar 
+- storagedrawers-1.16.3-8.5.2.jar 
+- TConstruct-1.16.5-3.3.4.335.jar 
+- textruesrubidiumoptions-1.0.8-mc1.16.5.jar 
+- tinkersreforged1.16.5-0.0.6.jar 
+- tinker_rapier-1.1.4-1.16.5.jar 
+- twilightforest-1.16.5-4.0.870-universal.jar 
+- wailaharvestability-mc1.16.x-forge-1.1.15.jar 
+- wawla-1.16.5-8.0.9.jar 
+- xaerosworldmap_1.39.4_forge_1.16.5.jar 
+- xaeros_minimap_25.2.6_forge_1.16.5.jar 
