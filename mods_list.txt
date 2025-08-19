@@ -6,7 +6,6 @@ https://raw.githubusercontent.com/rouzylil/client-mods/main/mods/autoreglib-1.6-
 https://raw.githubusercontent.com/rouzylil/client-mods/main/mods/BiomesOPlenty-1.16.5-13.1.0.488-universal.jar  
 https://raw.githubusercontent.com/rouzylil/client-mods/main/mods/blockcarpentry-1.16-0.6.0.jar  
 https://raw.githubusercontent.com/rouzylil/client-mods/main/mods/BloodMagic-1.16.4-3.1.13-39.jar  
-https://raw.githubusercontent.com/rouzylil/client-mods/main/mods/bmorph-1.16.5-3.0.1.jar  
 https://raw.githubusercontent.com/rouzylil/client-mods/main/mods/bookshelf-forge-1.16.5-10.4.32.jar  
 https://raw.githubusercontent.com/rouzylil/client-mods/main/mods/Botania-1.16.5-420.3.jar  
 https://raw.githubusercontent.com/rouzylil/client-mods/main/mods/cfm-7.0.0pre22-1.16.3.jar  
